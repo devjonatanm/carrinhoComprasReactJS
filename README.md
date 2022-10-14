@@ -1,2 +1,1 @@
 # carrinhoComprasReactJS
-Created with CodeSandbox
